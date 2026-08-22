@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Accessibility Hider</string>
+    <string name="module_description">Hides installed/enabled accessibility services from every app selected in scope</string>
+</resources>

@@ -1,0 +1,37 @@
+# Gradle files and build caches
+.gradle/
+build/
+/*/build/
+.kotlin/
+
+# Local configuration (SDK paths, api keys, etc.)
+local.properties
+
+# Log files
+*.log
+
+# Android Studio / IntelliJ IDEA files
+*.iml
+.idea/workspace.xml
+.idea/tasks.xml
+.idea/gradle.xml
+.idea/assetWizardSettings.xml
+.idea/dictionaries
+.idea/libraries
+.idea/caches
+
+# Proguard / R8 folder
+proguard/
+
+# Device/Emulator captures and profiles
+captures/
+*.hprof
+
+# Native build artifacts
+.externalNativeBuild/
+.cxx/
+
+# Built application packages (Never leak signing keys or final builds)
+*.apk
+*.aar
+*.aab
